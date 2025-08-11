@@ -39,9 +39,7 @@ In addition to frontend-oriented testing, I’ve also worked with Java, Python, 
 </p>
 
 ---
-
 ### 📊 GitHub Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siva-thota&layout=compact&langs_count=10&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siva-thota&show_icons=true&theme=radical" alt="GitHub Stats">
-</p>
+
